@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "helmet": "^3.18.0",
+    "knex": "^0.16.5",
+    "morgan": "^1.9.1",
+    "sqlite3": "^4.0.7"
+  },
+  "devDependencies": {
+    "knex-cleaner": "^1.1.4",
+    "nodemon": "^1.19.0"
+  }
+}
